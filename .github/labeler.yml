@@ -1,0 +1,7 @@
+# Add 'EAB' label to changes made under EAB directory
+demo-label:
+  - labeler/**/*
+
+DO-NOT-MERGE:
+  - labeler/**/*
+
